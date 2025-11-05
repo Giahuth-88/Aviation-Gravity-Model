@@ -49,22 +49,22 @@ Our goal was to identify **profitable new flight routes** based on economic, geo
 
 ## 📊 Results | 结果与结论
 - Final **Geo-economic Model (Rev_PAX target)** achieved **R² = 0.87**, **MAPE = 3.35**
-- Identified **Top 10 new routes** such as:
+- Identified and validated **Top 10 new routes**, including:
+  - Bogotá – Las Vegas ✅ *(validated by Avianca sponsor and planned for 2024 launch)*  
   - Bogotá – Paris  
   - Medellín – Berlin  
   - Cali – Paris  
   - Bogotá – Tokyo  
-- Established **Weighted Scoring Model** to combine quantitative and qualitative metrics
+- Developed a **Weighted Scoring Model** combining quantitative performance and strategic feasibility
+- **Sponsor Feedback:** “The Bogotá–Las Vegas prediction was completely accurate, and the route will be executed in 2024.”
 
 最终结果：
 - 最优Geo-economic模型（以Rev_PAX为目标）达到 **R² = 0.87, MAPE = 3.35**
-- 推荐航线Top 10示例：
+- 确定并验证了 **Top 10 条潜在航线**，其中包括：
+  - **波哥大 – 拉斯维加斯 ✅（被Avianca官方认可，并将在2024年正式启航）**
   - 波哥大 – 巴黎  
   - 麦德林 – 柏林  
   - 卡利 – 巴黎  
   - 波哥大 – 东京  
-- 提出了融合经济指标与市场竞争因素的 **加权评分模型**
-
----
-
-## 📂 Project Structure | 文件结构
+- 构建了融合经济表现与战略可行性的 **加权评分模型**
+- **导师反馈：** “波哥大–拉斯维加斯航线的预测完全正确，且该航线已被采纳，将于2024年执行。”
